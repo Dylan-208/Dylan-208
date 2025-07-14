@@ -17,4 +17,6 @@ Sou um profissional em transição de carreira, sou formado em Engenharia Metal�
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-208&layout=donut)](https://github.com/Dylan-208/github-readme-stats)
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-208&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+</p>
