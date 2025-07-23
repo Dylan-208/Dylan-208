@@ -21,7 +21,6 @@ Sou um profissional em transição de carreira, sou formado em Engenharia Metal�
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-208&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+    <img  width="41%" align="center" src="https://github-readme-stats.vercel.app/api?username=Dylan-208&theme=algolia&show_icons=true&card_width=400&rank_icon=github" />
 </p>
-<p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dylan-208&theme=algolia&show_icons=true&card_width=400&rank_icon=github" />
-</p>
+
