@@ -1,6 +1,6 @@
 # Olá, sou o Dylan Santos 👋
 
-**`Desenvolvedor FullStake`**
+**`Desenvolvedor FullStack`**
 
 Sou um profissional em transição de carreira, sou formado em Engenharia Metalúrgica pela federal do Ceará. Atualmente realizo trabalhos freelancer e estou em busca de uma vaga como desenvolvedor.
 
