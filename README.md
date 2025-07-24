@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou um profissional em transição de carreira, sou formado em Engenharia Metalúrgica pela federal do Ceará. Atualmente realizo trabalhos freelancer e estou em busca de uma vaga como desenvolvedor.
+Desenvolvedor Fullstack Jr, com formação em Engenharia. Tenho experiência de 5 anos na área industrial, mas resolvi apostar na carreira que me encontrei depois de alguns anos como engenheiro. 
+
+Atualmente atuo na área de desenvolvimento fullstack realizando projetos de forma freelancer para desenvolver ainda mais minhas habilidades técnicas com foco em NodeJS e ReactJS.
 
 ## Tecnologias que uso no meu dia
 
